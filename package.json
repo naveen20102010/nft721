@@ -6,19 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/naveen20102010/nft271example.git"
-  },
+  
   "keywords": [
     "nft"
   ],
   "author": "nchauhan20102010",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/naveen20102010/nft271example/issues"
-  },
-  "homepage": "https://github.com/naveen20102010/nft271example#readme",
+ 
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.6",
     "@nomiclabs/hardhat-etherscan": "^3.0.3",
