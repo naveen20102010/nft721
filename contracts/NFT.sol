@@ -19,7 +19,7 @@ contract AnkrAvalancheNFT is ERC721URIStorage, Ownable {
 */
     using Counters for Counters.Counter;
 
-/* @dev Store our counter
+/* Store our counter
 * @param The TokenId will be stored based on the current count
 * @return This will store the current TokenId
 */
